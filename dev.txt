@@ -8,4 +8,9 @@ http://vtuzbcqi718.chinanorth2.cloudapp.chinacloudapi.cn
 
 http://vtuzbcqi718.chinanorth2.cloudapp.chinacloudapi.cn:5000/
 
+环境激活方式：方式：https://docs.devopshub.cn/mdwiki/#!./docs/tfs/docker/00-prepare/index.md
+
+练习文
+练习文档： 档： https://docs.devopshub.cn/mdwiki/#!docs/tfs/docker/index.md
+
 
